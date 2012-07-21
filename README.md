@@ -7,14 +7,14 @@ Plugin for [wintersmith](https://github.com/jnordberg/wintersmith) which:
 
 ### Extras:
 
-* Handle `coffee` or `js` files
-* Handle `styl` or `css` files, plus `stylus` include [nib](https://github.com/visionmedia/nib)
+* Handles `coffee` or `js` files
+* Handles `styl` or `css` files, plus `stylus` include [nib](https://github.com/visionmedia/nib)
   and `--include-css` option, so you can `@import` (also) vanilla css.
 
 ### Install:
 
 ```sh
-npm install wintersmith-browserify -g
+npm install wintersmith-perian -g
 ```
 
 then add `wintersmith-perian` to plugins in your wintersmith config
