@@ -1,10 +1,11 @@
 {
   "name": "wintersmith-perian",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "DAddYE <daddye@me.com>",
   "description": "Assets compressor/uglifier with stylus,coffee and browserify in the box.",
   "license": "MIT",
   "dependencies": {
+    "browserify": ">= 0.0.1",
     "uglify-js": ">= 0.0.1",
     "clean-css": ">= 0.0.1",
     "stylus": ">= 0.0.1",
